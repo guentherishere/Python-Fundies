@@ -1,5 +1,6 @@
 #!/usr/bin/python
 
+# input from keyboard is a string, so it has to be converted w. the int() func
 x=int(input("give me a number"))
 
 if (x<=11):
